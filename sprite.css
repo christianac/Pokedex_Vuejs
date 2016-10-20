@@ -1,0 +1,82 @@
+.todo_pokedex{
+	position: relative;
+}
+.pokemon {
+	position: absolute;    
+	zoom: 1.5;
+    top: 75px;
+    left: 50px;
+	padding-left: 80px;
+	height: 80px;    
+	width: 80px;
+	line-height: 80px;
+	background-image: url('poke_sprite.png');
+	background-repeat: no-repeat;
+	background-position: 80 80;
+}
+#pokemon_1 {
+	background-position: 0 0;
+}#pokemon_2 {
+	background-position: -80px 0px;
+}#pokemon_3 {
+	background-position: -160px 0px;
+}#pokemon_4 {
+	background-position: -240px 0px;
+}#pokemon_5 {
+	background-position: -320px 0px;
+}#pokemon_6 {
+	background-position: -400px 0px;
+}#pokemon_7 {
+	background-position: -480px 0px;
+}#pokemon_8 {
+	background-position: -560px 0px;
+}#pokemon_9 {
+	background-position: -640px 0px;
+}#pokemon_10 {
+	background-position: -720px 0px;
+}#pokemon_11 {
+	background-position: -800px 0px;
+}
+#pokemon_12 {
+	background-position: -880px 0px;
+}
+#pokemon_13 {
+	background-position: -960px 0px;
+
+}
+#pokemon_14 {
+	background-position: -1040px 0px;
+
+}
+#pokemon_15 {
+	background-position: -1120px 0px;
+
+}
+#pokemon_16 {
+	background-position: -1200px 0px;
+
+}#pokemon_17{background-position: -1280px 0px;}#pokemon_18{background-position: -1360px 0px;}#pokemon_19{background-position: -1440px 0px;}#pokemon_20{background-position: -1520px 0px;}#pokemon_21{background-position: -1600px 0px;}#pokemon_22{background-position: -1680px 0px;}#pokemon_23{background-position: -1760px 0px;}#pokemon_24{background-position: -1840px 0px;}#pokemon_25{background-position: -1920px 0px;}
+#pokemon_26{background-position: 0px -80px;}#pokemon_27{background-position: -80px -80px;}#pokemon_28{background-position: -160px -80px;}#pokemon_29{background-position: -240px -80px;}#pokemon_30{background-position: -320px -80px;}#pokemon_31{background-position: -400px -80px;}#pokemon_32{background-position: -480px -80px;}#pokemon_33{background-position: -560px -80px;}#pokemon_34{background-position: -640px -80px;}#pokemon_35{background-position: -720px -80px;}#pokemon_36{background-position: -800px -80px;}#pokemon_37{background-position: -880px -80px;}#pokemon_38{background-position: -960px -80px;}#pokemon_39{background-position: -1040px -80px;}#pokemon_40{background-position: -1120px -80px;}#pokemon_41{background-position: -1200px -80px;}#pokemon_42{background-position: -1280px -80px;}#pokemon_43{background-position: -1360px -80px;}#pokemon_44{background-position: -1440px -80px;}#pokemon_45{background-position: -1520px -80px;}#pokemon_46{background-position: -1600px -80px;}#pokemon_47{background-position: -1680px -80px;}#pokemon_48{background-position: -1760px -80px;}#pokemon_49{background-position: -1840px -80px;}#pokemon_50{background-position: -1920px -80px;}
+#pokemon_51{background-position: 0px -160px;}#pokemon_52{background-position: -80px -160px;}#pokemon_53{background-position: -160px -160px;}#pokemon_54{background-position: -240px -160px;}#pokemon_55{background-position: -320px -160px;}#pokemon_56{background-position: -400px -160px;}#pokemon_57{background-position: -480px -160px;}#pokemon_58{background-position: -560px -160px;}#pokemon_59{background-position: -640px -160px;}#pokemon_60{background-position: -720px -160px;}#pokemon_61{background-position: -800px -160px;}#pokemon_62{background-position: -880px -160px;}#pokemon_63{background-position: -960px -160px;}#pokemon_64{background-position: -1040px -160px;}#pokemon_65{background-position: -1120px -160px;}#pokemon_66{background-position: -1200px -160px;}#pokemon_67{background-position: -1280px -160px;}#pokemon_68{background-position: -1360px -160px;}#pokemon_69{background-position: -1440px -160px;}#pokemon_70{background-position: -1520px -160px;}#pokemon_71{background-position: -1600px -160px;}#pokemon_72{background-position: -1680px -160px;}#pokemon_73{background-position: -1760px -160px;}#pokemon_74{background-position: -1840px -160px;}#pokemon_75{background-position: -1920px -160px;}
+#pokemon_76{background-position: 0px -240px;}#pokemon_77{background-position: -80px -240px;}#pokemon_78{background-position: -160px -240px;}#pokemon_79{background-position: -240px -240px;}#pokemon_80{background-position: -320px -240px;}#pokemon_81{background-position: -400px -240px;}#pokemon_82{background-position: -480px -240px;}#pokemon_83{background-position: -560px -240px;}#pokemon_84{background-position: -640px -240px;}#pokemon_85{background-position: -720px -240px;}#pokemon_86{background-position: -800px -240px;}#pokemon_87{background-position: -880px -240px;}#pokemon_88{background-position: -960px -240px;}#pokemon_89{background-position: -1040px -240px;}#pokemon_90{background-position: -1120px -240px;}#pokemon_91{background-position: -1200px -240px;}#pokemon_92{background-position: -1280px -240px;}#pokemon_93{background-position: -1360px -240px;}#pokemon_94{background-position: -1440px -240px;}#pokemon_95{background-position: -1520px -240px;}#pokemon_96{background-position: -1600px -240px;}#pokemon_97{background-position: -1680px -240px;}#pokemon_98{background-position: -1760px -240px;}#pokemon_99{background-position: -1840px -240px;}#pokemon_100{background-position: -1920px -240px;}
+#pokemon_101{background-position: 0px -320px;}#pokemon_102{background-position: -80px -320px;}#pokemon_103{background-position: -160px -320px;}#pokemon_104{background-position: -240px -320px;}#pokemon_105{background-position: -320px -320px;}#pokemon_106{background-position: -400px -320px;}#pokemon_107{background-position: -480px -320px;}#pokemon_108{background-position: -560px -320px;}#pokemon_109{background-position: -640px -320px;}#pokemon_110{background-position: -720px -320px;}#pokemon_111{background-position: -800px -320px;}#pokemon_112{background-position: -880px -320px;}#pokemon_113{background-position: -960px -320px;}#pokemon_114{background-position: -1040px -320px;}#pokemon_115{background-position: -1120px -320px;}#pokemon_116{background-position: -1200px -320px;}#pokemon_117{background-position: -1280px -320px;}#pokemon_118{background-position: -1360px -320px;}#pokemon_119{background-position: -1440px -320px;}#pokemon_120{background-position: -1520px -320px;}#pokemon_121{background-position: -1600px -320px;}#pokemon_122{background-position: -1680px -320px;}#pokemon_123{background-position: -1760px -320px;}#pokemon_124{background-position: -1840px -320px;}#pokemon_125{background-position: -1920px -320px;}
+#pokemon_126{background-position: 0px -400px;}#pokemon_127{background-position: -80px -400px;}#pokemon_128{background-position: -160px -400px;}#pokemon_129{background-position: -240px -400px;}#pokemon_130{background-position: -320px -400px;}#pokemon_131{background-position: -400px -400px;}#pokemon_132{background-position: -480px -400px;}#pokemon_133{background-position: -560px -400px;}#pokemon_134{background-position: -640px -400px;}#pokemon_135{background-position: -720px -400px;}#pokemon_136{background-position: -800px -400px;}#pokemon_137{background-position: -880px -400px;}#pokemon_138{background-position: -960px -400px;}#pokemon_139{background-position: -1040px -400px;}#pokemon_140{background-position: -1120px -400px;}#pokemon_141{background-position: -1200px -400px;}#pokemon_142{background-position: -1280px -400px;}#pokemon_143{background-position: -1360px -400px;}#pokemon_144{background-position: -1440px -400px;}#pokemon_145{background-position: -1520px -400px;}#pokemon_146{background-position: -1600px -400px;}#pokemon_147{background-position: -1680px -400px;}#pokemon_148{background-position: -1760px -400px;}#pokemon_149{background-position: -1840px -400px;}#pokemon_150{background-position: -1920px -400px;}
+.dex{
+	width: 550px;
+}
+
+.descripcion{
+	margin-top: 30px;
+}
+.peso{
+	position: absolute;
+    top: 165px;
+    left: 355px;
+    font-size: 30px;
+}
+.weight{
+	position: absolute;
+    top: 165px;
+    left: 435px;
+    font-size: 30px;
+}
